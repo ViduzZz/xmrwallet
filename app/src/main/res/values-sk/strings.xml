@@ -38,7 +38,7 @@
 
     <string name="info_xmrto"><![CDATA[
         <b>Vložili ste Bitcoin adresu.</b><br/>
-        <i>Odošlete XMR a prijímateľ obdrží BTC za použitia služby <b>XMR.TO</b>.</i>
+        <i>Odošlete XMR a prijímateľ obdrží BTC za použitia služby <b>XMR.TO</b></i>
     ]]></string>
 
     <string name="info_send_xmrto_success_order_label">Objednávka XMR.TO</string>
